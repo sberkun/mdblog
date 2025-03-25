@@ -5,6 +5,7 @@ remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
 
+repository: sberkun/mdblog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
