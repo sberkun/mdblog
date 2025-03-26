@@ -1,0 +1,38 @@
+
+.game {
+    background-color: #1d6278;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.doors {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.door {
+    margin: 0 10px;
+    text-align: center;
+}
+.wins {
+    margin: 0 10px;
+}
+
+.game img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.game button {
+    padding: 8px 12px;
+    background-color: #007b83;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.game button:hover {
+    background-color: #005a60;
+}
