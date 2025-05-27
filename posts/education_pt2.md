@@ -85,12 +85,13 @@ The problem with this idea is that companies typically lose money on their inter
 Even at minimum wage, interns are nearly useless, and take time from full-time
 employees who have to mentor them. An internship that replaces college would be
 such a huge cost sink that no sane company would offer one ([Palantir is not a sane company](https://www.businessinsider.com/palantir-launches-anti-college-internship-for-high-school-grads-2025-4)). There are two ways to remedy this:
-  1) "Reverse financed" internships: essentially, you pay the company for the internship,
+
+  1. "Reverse financed" internships: essentially, you pay the company for the internship,
      rather than the company paying you. Not only is this dystopian, but most people
      won't be able to afford this. We've seen this option before in the form of "coding bootcamps"
      and I don't have a high opinion of it.
 
-  2) 10-year slavery contracts: essentially, the company agrees to pay you minimum
+  2. 10-year slavery contracts: essentially, the company agrees to pay you minimum
      wage for 10 years. In return, you get education, experience, and guaranteed
      employment until the contract ends. If you underperform, the company not only
      fires you, but you owe them a few million dollars (your "tuition"), which
