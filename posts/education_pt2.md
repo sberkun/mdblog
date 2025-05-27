@@ -1,6 +1,8 @@
+---
+layout: post
+title:  "The Industrial De-volution"
+---
 
-
-# The Industrial De-volution
 
 Imagine yourself as a weaver in the early 1800s. Newfangled knitting frames are
 threatening your skilled job: an unskilled laborer using a knitting frame can
